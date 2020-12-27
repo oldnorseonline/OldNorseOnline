@@ -1,0 +1,8 @@
+<html><head><title>Hrafnkel's Saga</title></head>
+<frameset rows="50, 50">
+<frame name="text" src="https://realscottpilgrim.github.io/hrafnkel/HrafnkelSaga.htm">
+<frameset cols="60, 40">
+  <frame name="gloss" src="https://realscottpilgrim.github.io/hrafnkel/gloss.htm">
+  <frame name="notes" src="https://realscottpilgrim.github.io/hrafnkel/translation.htm">
+</frameset>
+</html>
